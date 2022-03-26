@@ -15,15 +15,15 @@
 
 1.gross national product in millions of dollars.国民生产总值（GNP）
 
-2. rate of interest (ROI),利润率
+2.rate of interest (ROI),利润率
 
-3. inflation (INFL),通货膨胀 
+3.inflation (INFL),通货膨胀 
 
 4.unemployment (UNEMP), 失业
 
 5.Debts in relation to GNP (DEBTS),负债与国民生产总值的关系
 
-6. liquid deposits in relation to GNP (DEPOS),资金流与国民生产总值的关系
+6.liquid deposits in relation to GNP (DEPOS),资金流与国民生产总值的关系
 
 7.population (POP),人口
 
